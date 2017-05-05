@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tracks" size="15.000000 8.437500" />
+    <ImageTarget name="Rocks" size="15.000000 8.437500" />
+    <ImageTarget name="vlsi" size="100.000000 137.668167" />
+    <ImageTarget name="burning_drums" size="15.000000 13.997404" />
+  </Tracking>
+</QCARConfig>

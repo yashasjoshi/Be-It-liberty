@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 24ab0f8e8d033af4d86c0ea7a4947291
+timeCreated: 1493027248
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm
+    100002: armrobe
+    100004: base1
+    100006: base2
+    100008: fire
+    100010: foot1
+    100012: foot2
+    100014: hand
+    100016: head
+    100018: Light01
+    100020: Light02
+    100022: Light03
+    100024: Light04
+    100026: //RootNode
+    100028: mount
+    100030: robe
+    100032: tablet
+    100034: tabrobe
+    100036: torch
+    100038: trim
+    400000: arm
+    400002: armrobe
+    400004: base1
+    400006: base2
+    400008: fire
+    400010: foot1
+    400012: foot2
+    400014: hand
+    400016: head
+    400018: Light01
+    400020: Light02
+    400022: Light03
+    400024: Light04
+    400026: //RootNode
+    400028: mount
+    400030: robe
+    400032: tablet
+    400034: tabrobe
+    400036: torch
+    400038: trim
+    2300000: arm
+    2300002: armrobe
+    2300004: base1
+    2300006: base2
+    2300008: fire
+    2300010: foot1
+    2300012: foot2
+    2300014: hand
+    2300016: head
+    2300018: mount
+    2300020: robe
+    2300022: tablet
+    2300024: tabrobe
+    2300026: torch
+    2300028: trim
+    3300000: arm
+    3300002: armrobe
+    3300004: base1
+    3300006: base2
+    3300008: fire
+    3300010: foot1
+    3300012: foot2
+    3300014: hand
+    3300016: head
+    3300018: mount
+    3300020: robe
+    3300022: tablet
+    3300024: tabrobe
+    3300026: torch
+    3300028: trim
+    4300000: armrobe
+    4300002: arm
+    4300004: head
+    4300006: robe
+    4300008: hand
+    4300010: tablet
+    4300012: tabrobe
+    4300014: foot1
+    4300016: foot2
+    4300018: mount
+    4300020: fire
+    4300022: torch
+    4300024: trim
+    4300026: base2
+    4300028: base1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
